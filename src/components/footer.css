@@ -1,0 +1,9 @@
+.Pied {
+    display :flex !important;
+    align-items:flex-end !important;
+    height:50px !important;
+    width:50px !important;
+      }
+      .tittre{
+          color: red !important;
+      }
